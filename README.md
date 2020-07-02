@@ -10,6 +10,7 @@ this version of thog is missing features present in the hosted version, as this 
 
 ## Installation
 
+Rename sampleconfig.json to sample.json and put in your bot token.
 
 ```bash
 npm install
